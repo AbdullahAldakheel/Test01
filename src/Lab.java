@@ -6,6 +6,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.*;
 public class Lab {
+	// test
 
 	private String name;
 	private String location;
